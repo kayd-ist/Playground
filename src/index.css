@@ -1,0 +1,24 @@
+@import url(https://db.onlinewebfonts.com/c/a575313c6dc4fd00c1a9506e1c3ea4fc?family=Euclid+Circular+A);
+
+@font-face {
+  font-family: "Euclid Circular A";
+  src: url("https://db.onlinewebfonts.com/t/a575313c6dc4fd00c1a9506e1c3ea4fc.eot");
+  src: url("https://db.onlinewebfonts.com/t/a575313c6dc4fd00c1a9506e1c3ea4fc.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/a575313c6dc4fd00c1a9506e1c3ea4fc.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/a575313c6dc4fd00c1a9506e1c3ea4fc.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/a575313c6dc4fd00c1a9506e1c3ea4fc.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/a575313c6dc4fd00c1a9506e1c3ea4fc.svg#Euclid Circular A")
+      format("svg");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Euclid Circular A";
+  font-weight: 400;
+}
