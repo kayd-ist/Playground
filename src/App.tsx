@@ -20,7 +20,7 @@ function App() {
         // Truecaller app present on the device and the profile overlay opens
         // The user clicks on verify & you'll receive the user's access token to fetch the profile on your
         // callback URL - post which, you can refresh the session at your frontend and complete the user  verification
-        setTest("Android App");
+        setTest("Android App, Initializing TrueCaller");
       }
     }, 600);
   };
